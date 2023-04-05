@@ -133,6 +133,28 @@ header {
     margin-right: 40px;
 }
 
+.home-container .media-icons a {
+    color: var(--second-color);
+    font-size: 1.5em;
+    margin: 10px 0;
+}
+
+.home-container .media-icons a:hover {
+    color: var(--hover-color);
+}
+
+.home-container .info h2 {
+    font-size: 4em;
+    font-weight: 600;
+    line-height: 70px;
+}
+
+.home-container .info h3 {
+    color: var(--third-color);
+    font-feature-settings: 1.3em;
+    font-weight: 600;
+}
+
 /* common styles for all section */
 
 .flex-center {
